@@ -10,7 +10,7 @@ first_name: Satya Brat
 last_name: Tiwari
 
 # Status emoji
-status: Looking for postdoc position
+status: ''
   icon: ''
 
 # Is this the primary user of the site?
