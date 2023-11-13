@@ -10,8 +10,8 @@ first_name: Satya Brat
 last_name: Tiwari
 
 # Status emoji
-status: ''
-  icon: ''
+#status: ''
+ # icon: ''
 
 # Is this the primary user of the site?
 superuser: true
